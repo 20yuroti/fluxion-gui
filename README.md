@@ -1,6 +1,7 @@
 
 <p align="center"><img src="https://github.com/deltaxflux/fluxion-gui/blob/master/logos/logo2.jpg?raw=true" /></p>
-# fluxion-gui
+
+# Fluxion-gui
 This tool is written in c++ and allow to create an fake AP like fluxion-cli does. Every code which is against the law got removed so don't flame. 
 if you want to develop this tool, please make pull requests. 
 
@@ -11,6 +12,8 @@ if you want to develop this tool, please make pull requests.
 * PHP, for the sites 
 * Html, for the login sites
 * Js, bootstrap 
+
+<p align="center"><img src="https://github.com/deltaxflux/fluxion-gui/blob/master/logos/Pre.png?raw=true" /></p>
 
 ## Disclaimer
 
